@@ -5,7 +5,7 @@ setup(
     version="0.0.1",
     author="GeicyaneClemente",
     author_email="geicyaneclemente@live.com",
-    url="https://github.com/GeicyaneC/image_process",
+    url="https://github.com/GeicyaneC/processamento-imagens-python",
     packages=find_packages(),
     install_requires=['numpy','matplotlib','PIL'],
     python_requires='>=3.8'
